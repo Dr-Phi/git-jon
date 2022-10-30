@@ -1,5 +1,5 @@
-# Curso de _Got_ & _Github_
+# Curso de _Git_ & _Github_
 
 Con JonMircha
 
-Agrego este párrafo al _README.md_
+Agrego este nuevo párrafo
